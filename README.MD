@@ -50,6 +50,7 @@ Projeto do Blog para a VieliTech
 * [RubyGems 3.12.5](https://rubygems.org/)
 * [Jekyll](https://jekyllrb.com/)
 * [Bundler](https://bundler.io/)
+* [Jekyll REST API](https://github.com/riichard/jekyll-rest-api)
 
 
 
@@ -109,6 +110,10 @@ $ jekyll s
 4. Create a commit and push it!
 
 
+### API
+
+The API can be accessed under
+[http://localhost:4000/jekyll-rest-api/posts.json](http://localhost:4000/jekyll-rest-api/posts.json)
 
 <!-- CONTRIBUTING -->
 ## Contributing
