@@ -5,6 +5,7 @@ date: '2022-01-11 07:00:00 -0300'
 categories:
 - vielitech
 - FAQ
+image: http://pudim.com.br/pudim.jpg
 ---
 
 ![alt_text](https://avatars.githubusercontent.com/u/72389266?s=96&v=4)
