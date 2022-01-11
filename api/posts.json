@@ -5,8 +5,12 @@
 		{
             "id"         : "{{ post.id }}",
             "title"      : "{{ post.title | escape }}",
-            "categories" : "{{ post.categories }}",
-            "tags"       : "{{ post.tags | join: ', ' }}",
+            "categories" : [
+                  {% for category in post.categories %}
+                        "{{ category }}" {% if forloop.last %}{% else %},{% endif %}
+                  {% endfor %}
+            ],
+            "tags"       : "[ {{ post.tags | join: ', ' }} ]",
             "url"        : "{{ site.url | append: post.url }}",
             "path"       : "{{ post.path }}",
             "next"       : "{{ post.next.url }}",
