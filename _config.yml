@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A VieliTech desenvolve tecnologia que gera resultado para industria.
   Introduzindo empresas na industria 4.0, atraves de automação do apontamento
   eletônico e controle de OEE.
-baseurl: "blog.vielitech.com.br" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "blog.vielitech.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VieliTech
 github_username:  VieliTech
