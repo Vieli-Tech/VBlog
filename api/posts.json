@@ -19,7 +19,7 @@
             "shortdate"  : "{{ post.date | date : '%B %d, %Y' }}",
             "content"    : "{{ post.content | escape | strip_newlines }}",
             "excerpt"    : "{{ post.excerpt | escape | strip_newlines }}",
-            "image"      : "{{ post.image }}"
+            "image"      : {% if post.image != null %} "{{ post.image }}" {% else %} "{{ site.url | append: '/assets/noimage.png' }}" {% endif %}
 		} {% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
 ]
