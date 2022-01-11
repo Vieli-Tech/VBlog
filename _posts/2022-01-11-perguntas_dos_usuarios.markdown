@@ -6,14 +6,15 @@ categories:
 - vielitech
 - FAQ
 image: https://avatars.githubusercontent.com/u/72389266?s=96&v=4
-excerpt: Nesse post vamos trazer 5 perguntas que recebemos essa semana e que podem também te ajudar
+excerpt: Nesse post vamos trazer 5 perguntas que recebemos essa semana e que podem
+  também te ajudar
 ---
 
 ![alt_text](https://avatars.githubusercontent.com/u/72389266?s=96&v=4)
 
 Nesse post vamos trazer 5 perguntas que recebemos essa semana e que podem também te ajudar
 
-:monoculos_face:
+🧐
 
 1 – Quando finalizado o Setup, na tela principal do totem,  o sistema gera uma parada como as demais?
 
