@@ -79,7 +79,10 @@ $ git clone https://github.com/Vieli-Tech/VBlog.git
 ```
 $ cd VBlog/
 ```
-
+3. Install packages:
+```
+$ bundle install
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -90,6 +93,10 @@ In your terminal and in the project folder:
 1. Run the Jekyll server:
 ```
 $ jekyll s
+```
+Or try:
+```
+$ bundle exec jekyll s
 ```
 2. Access the blog!:
 [http://localhost:4000](http://localhost:4000)
