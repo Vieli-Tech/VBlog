@@ -7,7 +7,7 @@
             "title"      : "{{ post.title | escape }}",
             "categories" : "{{ post.categories }}",
             "tags"       : "{{ post.tags | join: ', ' }}",
-            "url"        : "{{ post.url }}",
+            "url"        : "{{ site.url | append: post.url }}",
             "path"       : "{{ post.path }}",
             "next"       : "{{ post.next.url }}",
             "previous"   : "{{ post.previous.url }}",
