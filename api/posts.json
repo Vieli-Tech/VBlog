@@ -15,7 +15,7 @@
             "shortdate"  : "{{ post.date | date : '%B %d, %Y' }}",
             "content"    : "{{ post.content | escape | strip_newlines }}",
             "excerpt"    : "{{ post.excerpt | escape | strip_newlines }}",
-            "image":     : "{{ post.image }}"
+            "image"      : "{{ post.image }}"
 		} {% if forloop.last %}{% else %},{% endif %}
 	{% endfor %}
 ]
