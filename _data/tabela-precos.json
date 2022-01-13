@@ -8,7 +8,7 @@
     {
       "descricao": "Atendimento remoto, com atendimento via Whatsapp, e-mail, telefone ou videochamada para resolução de problemas de conectividade, configuração, treinamento, etc",
       "valor": "R$100,00",
-      "New field 19": "Atendimento remoto"
+      "nome": "Atendimento remoto"
     },
     {
       "descricao": "Desenvolvimento e customização para o sistema de apontamento",
