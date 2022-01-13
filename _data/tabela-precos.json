@@ -1,0 +1,29 @@
+{
+  "demandas": [
+    {
+      "descricao": "Atendimento presencial no cliente para manutenção e/ou configurações de equipamento(s)",
+      "valor": "R$190,00",
+      "nome": "Atendimento presencial"
+    },
+    {
+      "descricao": "Atendimento remoto, com atendimento via Whatsapp, e-mail, telefone ou videochamada para resolução de problemas de conectividade, configuração, treinamento, etc",
+      "valor": "R$100,00",
+      "New field 19": "Atendimento remoto"
+    },
+    {
+      "descricao": "Desenvolvimento e customização para o sistema de apontamento",
+      "valor": "R$250,00",
+      "nome": "Desenvolvimento e customização"
+    },
+    {
+      "descricao": "Km rodado (ida e volta)",
+      "valor": "R$1.50",
+      "nome": "Deslocamento"
+    },
+    {
+      "descricao": "Hora comercial de viagem",
+      "valor": "R$90,00",
+      "nome": "Hora comercial"
+    }
+  ]
+}

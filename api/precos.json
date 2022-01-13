@@ -1,0 +1,11 @@
+---
+---
+[
+      {% for item in site.data.tabela-precos.demandas %}
+            {
+                  "descricao"    : "{{ item.descricao }}",
+                  "valor"    : "{{ item.valor }}",
+                  "nome"      : "{{ item.nome }}"
+            }{% if forloop.last %}{% else %},{% endif %}
+      {% endfor %}
+]
