@@ -9,7 +9,7 @@ categories:
 excerpt: Descubra os benefícios de usar os Grupos de equipamentos e aprenda como cadastrar e usar-los
 ---
  
- ## Utilizando grupos para facilitar gestão
+## Utilizando grupos para facilitar gestão
 
 Foi implementando recentemente melhorias na organização e visualização de grupos. Hoje, o sistema de apontamento da VieliTech tem o portal de configurações (IPSERVIDOR:8082), facilmente você consegue criar novos grupos e incluir equipamentos nos grupos.
 
