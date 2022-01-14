@@ -4,15 +4,12 @@ layout: post
 date: '2022-01-11 07:00:00 -0300'
 categories:
 - vielitech
-- FAQ
-image: https://avatars.githubusercontent.com/u/72389266?s=96&v=4
+- FAQ 
 excerpt: Nesse post vamos trazer 5 perguntas que recebemos essa semana e que podem
   também te ajudar
 ---
 
-![alt_text](https://avatars.githubusercontent.com/u/72389266?s=96&v=4)
-
-Nesse post vamos trazer 5 perguntas que recebemos essa semana e que podem também te ajudar
+### Nesse post vamos trazer 5 perguntas que recebemos essa semana e que podem também te ajudar
 
 🧐
 
