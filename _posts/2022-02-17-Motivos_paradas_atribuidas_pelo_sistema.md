@@ -1,4 +1,3 @@
-
 ---
 title: Motivos de paradas atribuídos pelo sistema
 layout: post

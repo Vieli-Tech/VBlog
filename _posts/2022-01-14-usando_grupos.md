@@ -19,6 +19,7 @@ Feito isso, você pode utilizar os grupos da seguinte maneira:
 
  - **Carrossel dos equipamentos**: IPSERVER:8080/#/grupos/(numero do grupo) irá aparecer em rodízio as telas dos equipamentos do grupo, trocando o equipamento a cada 15 segundos]
  
- - **Resumo dos indicadores do Grupo**: IPSERVER:8080/#/gruposTotais/(numero do grupo) Irá aparecer uma tela só com o resumo de todos os indicadores dos equipamentos do grupo agrupados. Essa função é interessante se tiver grupos por tipo de máquinas, juntando as semelhantes do mesmo setor, para ver os indicadores do ser.
+ - **Resumo dos indicadores do Grupo**: IPSERVER:8080/#/grupoTotal/(numero do grupo) Irá aparecer uma tela só com o resumo de todos os indicadores dos equipamentos do grupo agrupados. Essa função é interessante se tiver grupos por tipo de máquinas, juntando as semelhantes do mesmo setor, para ver os indicadores do ser.
+ Para ver varios grupos em formato de carrossel acesse  IPSERVER:8080/#/gruposTotais?grupos=(numero dos grupos separado por virgula)
   
   - **Vários equipamentos na mesma tela** IPSERVER:8080/#/dashboard/(numero do grupo) Até 9 equipamentos na tela com o resumo da produção, meta e OEE do equipamento.
