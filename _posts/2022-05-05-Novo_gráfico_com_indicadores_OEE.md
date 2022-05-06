@@ -16,7 +16,7 @@ Apesar do Blog do sistema de apontamento da VieliTech não estar muito ativo nos
 
 Essa semana (02/05), estamos fazendo melhorias nas telas dos relatórios do sistema de apontamento conforme solicitações de usuários. A principal dela é a adição do relatório de OEE junto ao gráfico de "Produção Dia x Meta Dia". Foi adicionado um botão para exibir os indicadores de OEE. Selecionando essa opção, o gráfico de producão será substituido pelos indicadores de OEE.
 
-![relatorio_ooe](../assets/tela_relatorio_oee.png "Relatório OEE")
+![relatorio_ooe](/assets/tela_relatorio_oee.png "Relatório OEE")
 
 Também foi feito melhorias no gráfico, mudando a formatação dos números no gráfico pera atenuar situações de sobreposição dos números e melhorar a visualização. Assim como no relatório detalhado de paradas foi incluido a data e hora do fim da parada.
 
