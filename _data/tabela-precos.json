@@ -2,17 +2,17 @@
   "demandas": [
     {
       "descricao": "Atendimento presencial no cliente para manutenção e/ou configurações de equipamento(s)",
-      "valor": "R$190,00",
+      "valor": "R$220,00",
       "nome": "Atendimento presencial"
     },
     {
       "descricao": "Atendimento remoto, com atendimento via Whatsapp, e-mail, telefone ou videochamada para resolução de problemas de conectividade, configuração, treinamento, etc",
-      "valor": "R$100,00",
+      "valor": "R$140,00",
       "nome": "Atendimento remoto"
     },
     {
       "descricao": "Desenvolvimento e customização para o sistema de apontamento",
-      "valor": "R$250,00",
+      "valor": "R$260,00",
       "nome": "Desenvolvimento e customização"
     },
     {
