@@ -1,9 +1,10 @@
+# encoding: UTF-8
 ---
 ---
 [
 	{% for post in site.posts %}
 		{
-            "id"         : "{{ post.id }}",
+            "id"         : "{{ post.id | escape }}",
             "title"      : "{{ post.title | escape }}",
             "categories" : [
                   {% for category in post.categories %}
