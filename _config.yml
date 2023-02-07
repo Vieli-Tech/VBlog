@@ -28,6 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.vielitech.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VieliTech
 github_username:  VieliTech
+encoding: utf-8
+
 
 # Build settings
 theme: minima
