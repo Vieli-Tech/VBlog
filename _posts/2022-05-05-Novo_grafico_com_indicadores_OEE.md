@@ -4,9 +4,9 @@ layout: post
 date: '2022-05-05 07:00:00 -0300'
 categories:
 - Indicadores
-- Gráficos
+- Graficos
 - OEE
-- relatórios
+- relatorios
 excerpt: Novidades nos relatórios do sistema VieliTech, gráfico com indicadores de OEE
 ---
 

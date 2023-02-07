@@ -5,7 +5,7 @@ date: '2023-01-26 07:00:00 -0300'
 categories:
 - Intervalos
 - VEX
-- configuração
+- configuracao
 excerpt: Criação de intervalos programados!
 ---
 

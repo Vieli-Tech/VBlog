@@ -4,7 +4,7 @@ layout: post
 date: '2022-10-15 07:00:00 -0300'
 categories:
 - Produto
-- configurações
+- configuracoes
 - VEX
 excerpt: Novidade! Automação de email com resultados do dia anterior
 ---

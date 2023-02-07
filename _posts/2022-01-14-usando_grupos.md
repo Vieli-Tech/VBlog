@@ -5,7 +5,7 @@ date: '2022-01-14 07:00:00 -0300'
 categories:
 - vielitech
 - Grupos
-- Configuração 
+- configuracao 
 excerpt: Descubra os benefícios de usar os Grupos de equipamentos e aprenda como cadastrar e usar-los
 ---
  

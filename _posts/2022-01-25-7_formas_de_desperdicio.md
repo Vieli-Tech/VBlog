@@ -5,7 +5,7 @@ date: '2022-01-15 07:00:00 -0300'
 categories:
 - vielitech
 - lean
-- desperdícios
+- desperdicios
 excerpt: Aprenda a identificar os 7 desperdícios que podem ocorrer e que prejudicam sua produtividade!
 ---
 
