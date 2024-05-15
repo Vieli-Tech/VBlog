@@ -1,5 +1,5 @@
 ---
-title: Novos Idiomas nos Sistemas VieliTech | Nuevos Idiomas en los Sistemas Vieli Tech
+title: Novos Idiomas nos Sistemas Vieli Tech | Nuevos Idiomas en los Sistemas Vieli Tech
 layout: post
 date: '2024-05-14 07:00:00 -0300'
 categories:
@@ -8,13 +8,9 @@ categories:
 excerpt: Os sistemas VieliTech agora contam com novas opções de idiomas! 
 ---
 
-**Selecione o idioma:**
-**Seleccione el idioma:**
-**Select language:**
-
-- [Português](#português)
-- [Español](#español)
-- [English](#english)
+- [Ver Postagem em Português](#português)
+- [Ver Post en Español](#español)
+- [View Post in English](#english)
 
 
 ---
@@ -68,7 +64,7 @@ Ahora, podrías preguntarte: ¿qué exactamente trae esta integración multiling
 
 ### ¿Qué Cambió?
 
-¡Imagínate navegando por los sistemas **Oraculo, Comandus y VEX**, de repente, te encuentras con la opción de elegir entre tres idiomas principales: **portugués, español e inglés**! Con la adición de estos idiomas, Vieli Tech está haciendo su plataforma más accesible y amigable para los usuarios de todo el mundo.
+¡Imagínate navegando por los sistemas **Oraculo, Comandus y VEX**, de repente, te encuentras con la opción de elegir entre tres idiomas principales: **portugués, español y inglés**! Con la adición de estos idiomas, Vieli Tech está haciendo su plataforma más accesible y amigable para los usuarios de todo el mundo.
 
 ![seletor](/assets/LangSelOraculo.png "Seletor de idiomas do Oraculo")
 
