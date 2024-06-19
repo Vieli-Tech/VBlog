@@ -31,7 +31,7 @@ Estamos animados para compartilhar uma grande novidade sobre o VEX! Recentemente
   
 - **Prioridade 0 (sem prioridade):** Itens com prioridade 0 são tratados como menos urgentes e são colocados no final da lista, abaixo de todos os outros itens.
 
-Essa atualização foi projetada para tornar o processo de gerenciamento das paradas das máquinas mais eficiente e intuitivo. Agora, com a classificação por prioridade, os operadores podem concentrar seus esforços nas paradas mais críticas e resolver problemas de maneira mais rápida e eficaz. Esperamos que essa melhoria contribua significativamente para a produtividade e o desempenho geral da equipe.
+Essa atualização foi projetada para tornar o processo de gerenciamento das paradas das máquinas mais eficiente e intuitivo. Esperamos que essa melhoria contribua significativamente para a produtividade e o desempenho geral da equipe.
 
 Fiquem à vontade para explorar essas novas funcionalidades no VEX e nos deixem saber suas opiniões e sugestões! Estamos sempre trabalhando para melhorar a experiência de todos os usuários.
 
@@ -60,7 +60,7 @@ A equipe da Vieli Tech.
   
 - **Prioridad 0 (sin prioridad):** Los ítems con prioridad 0 se consideran menos urgentes y se colocan al final de la lista, después de todos los demás ítems.
 
-Esta actualización está diseñada para hacer que el proceso de gestión de las paradas de las máquinas sea más eficiente e intuitivo. Ahora, con la clasificación por prioridad, los operadores pueden concentrar sus esfuerzos en las paradas más críticas y resolver problemas de manera más rápida y efectiva. Esperamos que esta mejora contribuya significativamente a la productividad y al rendimiento general del equipo.
+Esta actualización está diseñada para hacer que el proceso de gestión de las paradas de las máquinas sea más eficiente e intuitivo. Esperamos que esta mejora contribuya significativamente a la productividad y al rendimiento general del equipo.
 
 ¡Siéntanse libres de explorar estas nuevas funcionalidades en el Sistema VEX y hágannos saber sus opiniones y sugerencias! Siempre estamos trabajando para mejorar la experiencia de todos los usuarios.
 
@@ -89,7 +89,7 @@ We're excited to share some great news about VEX! Recently, we implemented an up
   
 - **Priority 0 (no priority):** Items with priority 0 are considered less urgent and are placed at the end of the list, after all other items.
 
-This update is designed to make the process of managing machine stops more efficient and intuitive. Now, with prioritization in place, operators can focus their efforts on the most critical stops and resolve issues more quickly and effectively. We hope this improvement significantly enhances team productivity and overall performance.
+This update is designed to make the process of managing machine stops more efficient and intuitive. We hope this improvement significantly enhances team productivity and overall performance.
 
 Feel free to explore these new features in VEX and let us know your thoughts and suggestions! We are always working to improve the experience for all users.
 
